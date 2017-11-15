@@ -1,0 +1,10 @@
+1880;1893;Mary;John
+1893;1906;Mary;John
+1906;1919;Mary;John
+1919;1932;Mary;Robert
+1932;1945;Mary;Robert
+1945;1958;Linda;James
+1958;1971;Lisa;Michael
+1971;1984;Jennifer;Michael
+1984;1997;Jessica;Michael
+1997;2010;Emily;Jacob
